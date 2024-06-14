@@ -1,0 +1,133 @@
+# <!=Copyright (C) 2023 Rara Theme
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Education Spark 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/education-spark\n"
+"POT-Creation-Date: 2023-08-15 03:55:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:62
+msgid "Address"
+msgstr ""
+
+#: functions.php:80
+msgid "CTA Label"
+msgstr ""
+
+#: functions.php:98
+msgid "CTA Link"
+msgstr ""
+
+#: functions.php:117
+msgid "Enable Search Form"
+msgstr ""
+
+#: functions.php:118
+msgid "Enable to show search form in header."
+msgstr ""
+
+#: functions.php:252
+msgid "Copyright &copy;"
+msgstr ""
+
+#: functions.php:252
+msgid "Y"
+msgstr ""
+
+#: functions.php:256
+msgid "Education Spark | Developed By"
+msgstr ""
+
+#: functions.php:257
+msgid "Rara Themes"
+msgstr ""
+
+#: functions.php:258
+msgid "Powered by %s."
+msgstr ""
+
+#: functions.php:258
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: sections/section-slider.php:8
+msgid "Read More"
+msgstr ""
+
+#: sections/section-slider.php:9
+msgid "Better Education for a Better World"
+msgstr ""
+
+#: sections/section-slider.php:10
+msgid ""
+"Maecenas perspiciatis eleifend mollitia esse etiam rem harum? Sunt "
+"incididunt, sollicitudin earum anim quidem laoreet nibh, facilisis eiusmod!"
+msgstr ""
+
+#: sections/section-slider.php:11
+msgid "Get Started Now"
+msgstr ""
+
+#: sections/section-slider.php:13
+msgid "Enquiry"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Education Spark"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/education-spark/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Education Spark is a versatile theme for college, school, university, LMS, "
+"training centres, Academy, Primary School, High school, and Kindergarten. "
+"This theme provides various features and customization options to suit your "
+"website branding. It is SEO-friendly and optimized for fast performance. "
+"This theme allows you to showcase featured courses, success stories, and "
+"the latest articles and display key statistics such as subject offerings, "
+"classroom count, distinguished faculty, and student enrollment. Education "
+"Spark is translation-ready, WooCommerce compatible, supports RTL languages, "
+"and offers many more features. The easy-to-use features and customization "
+"options makes this theme the best choice for any educational website.Check "
+"theme details at https://rarathemes.com/wordpress-themes/education-spark/, "
+"the demo at https://rarathemes.com/previews/?theme=education-spark, "
+"documentation at https://docs.rarathemes.com/docs/education-zone/, and get "
+"support at https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: functions.php:136
+#. translators: If there are characters in your language that are not supported
+#. by Albert Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Albert Sans font: on or off"
+msgid "on"
+msgstr ""

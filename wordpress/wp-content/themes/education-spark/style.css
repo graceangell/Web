@@ -1,0 +1,548 @@
+/*
+Theme Name: Education Spark
+Theme URI: https://rarathemes.com/wordpress-themes/education-spark/
+Template: education-zone
+Author: Rara Theme
+Author URI: https://rarathemes.com/
+Description: Education Spark is a versatile theme for college, school, university, LMS, training centres, Academy, Primary School, High school, and Kindergarten. This theme provides various features and customization options to suit your website branding. It is SEO-friendly and optimized for fast performance. This theme allows you to showcase featured courses, success stories, and the latest articles and display key statistics such as subject offerings, classroom count, distinguished faculty, and student enrollment. Education Spark is translation-ready, WooCommerce compatible, supports RTL languages, and offers many more features. The easy-to-use features and customization options makes this theme the best choice for any educational website.Check theme details at https://rarathemes.com/wordpress-themes/education-spark/, the demo at https://rarathemes.com/previews/?theme=education-spark, documentation at https://docs.rarathemes.com/docs/education-zone/, and get support at https://rarathemes.com/support-ticket/.
+Version: 1.0.0
+Requires PHP: 7.4
+Tested up to: 6.3
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: education-spark
+Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,custom-background,custom-header,custom-menu,custom-logo,featured-images,threaded-comments,full-width-template,rtl-language-support,translation-ready,theme-options,photography,e-commerce
+*/
+/*header layout styles*/
+
+body.theme-style-modern {
+  --primary-color: #7278f2 !important;
+  --primary-color-rgba: 114, 120, 242 !important;
+  --secondary-color: #db7093 !important;
+  --secondary-color-rgba: 219, 112, 147 !important;
+  --font-color: var(--font-color) !important;
+  font-family: "Albert Sans", sans-serif !important;
+  font-size: 18px !important;
+  line-height: 1.75 !important;
+}
+
+.site-header.header-two .top-links {
+  margin-top: 0;
+}
+
+.site-header.header-two .top-links span {
+  border-left: 1px solid var(--font-color);
+  display: inline-block;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.site-header.header-two .top-links span a {
+  text-transform: uppercase;
+  color: var(--font-color);
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.site-header.header-two .top-links span a:hover {
+  color: var(--primary-color);
+  opacity: 1;
+}
+
+.site-header.header-two .form-section a,
+.site-header.header-five .form-section a {
+  color: #fff;
+}
+
+.site-header.header-five .form-section a {
+  font-size: 15px;
+  margin-left: 20px;
+  vertical-align: middle;
+  line-height: 2;
+}
+
+.site-header.header-two #secondary-menu {
+  width: auto;
+}
+
+.site-header.header-two #mobile-header-2 svg {
+  color: #121212;
+}
+
+.site-header.header-two #secondary-menu li {
+  display: inline-block;
+  color: var(--font-color);
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  border-left: 1px solid var(--font-color);
+  position: relative;
+}
+
+.site-header.header-two #secondary-menu li a {
+  color: var(--font-color);
+  padding: 0;
+  margin-right: 4px;
+  padding-left: 10px;
+}
+
+.site-header.header-two #secondary-menu li:first-child {
+  border-left: 0;
+  padding-left: 0;
+}
+
+.site-header.header-two #secondary-menu li:first-child > a {
+  padding-left: 0;
+}
+
+.site-header.header-two #secondary-menu ul {
+  position: absolute;
+  top: 100%;
+  left: -15px;
+  width: 250px;
+  background: #f8f8f8 !important;
+  padding-top: 16px;
+  margin-left: -99999px;
+}
+
+.site-header.header-two #secondary-menu li:hover > ul,
+.site-header.header-two #secondary-menu li:focus > ul,
+.site-header.header-two #secondary-menu li.focus > ul {
+  margin-left: 0;
+}
+
+.site-header.header-two #secondary-menu ul ul {
+  top: 0;
+  left: 100%;
+  padding-top: 0;
+}
+
+.site-header.header-two #secondary-menu ul li {
+  float: none;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.site-header.header-two #secondary-menu ul li a {
+  display: block;
+  padding: 10px 15px;
+  margin: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.site-header.header-two #secondary-menu ul li:last-child > a {
+  border-bottom: 0;
+}
+
+.site-header.header-two #secondary-menu ul li:first-child > a {
+  padding: 10px 15px;
+}
+
+.site-header.header-two .header-top {
+  background: #f8f8f8 !important;
+  padding: 4px 0;
+}
+
+body.theme-style-modern .site-header .header-top .secondary-nav ul {
+  background: none !important;
+}
+
+.site-header .social-networks {
+  margin: 14px 0 0;
+  padding: 0;
+  float: right;
+  font-size: 0;
+  line-height: 0;
+}
+
+.site-header .social-networks li {
+  display: inline-block;
+  margin-left: 14px;
+  list-style: none;
+  color: var(--font-color);
+  font-size: 13px;
+  line-height: 15px;
+}
+
+.site-header .social-networks li a:focus {
+  outline: dotted 1px rgba(0, 0, 0, 0.5);
+}
+
+.site-header .social-networks li a:hover {
+  color: var(--font-color);
+}
+
+.site-header .apply-btn {
+  border: 2px solid var(--primary-color);
+  padding: 15px 32px;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin: 0;
+  transition: all 0.2s ease 0s;
+}
+
+.site-header .apply-btn:focus,
+.site-header .apply-btn:hover {
+  background: var(--primary-color);
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-header.header-two .main-navigation {
+  float: left;
+  width: auto;
+}
+
+.site-header.header-two .header-top .secondary-nav ul {
+  display: block;
+  position: relative;
+  background: none;
+}
+
+.site-header.header-two .form-section {
+  float: right;
+  position: relative;
+  padding: 16px 0;
+}
+
+.site-header.header-two .form-section .example {
+  position: absolute;
+  display: none;
+  top: 100%;
+  right: 0;
+  z-index: 999;
+  background: var(--primary-color);
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.site-header.header-two .form-section .example form {
+  width: 240px;
+  height: 40px;
+  padding: 5px 5px;
+  box-shadow: 0 1px 0 0 var(--primary-color);
+  background: var(--primary-color);
+  border: 0;
+}
+
+.site-header.header-two .form-section .example form input[type="search"] {
+  height: 100%;
+  padding: 0 10px;
+  background: none;
+  width: 75%;
+  float: left;
+  color: #fff;
+}
+
+.site-header.header-two .form-section .example form input[type="submit"] {
+  float: left;
+  width: 35px;
+  background: rgba(0, 0, 0, 0) url("images/search-icon.png") no-repeat scroll
+    6px 5px;
+  background-size: 16px;
+}
+
+.site-header.header-two .info-box {
+  /*width: 200px;*/
+  overflow: hidden;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 300;
+  margin-right: 30px;
+  color: #747474;
+  margin-top: 10px;
+}
+
+.site-header.header-two .info-box svg {
+  display: inline-block;
+  color: var(--primary-color);
+  font-size: 28px;
+  margin-right: 16px;
+  line-height: 32px;
+
+  /*margin-top: 4px;*/
+}
+
+.site-header.header-two .info-box span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.site-header.header-two .info-box span a {
+  color: #747474;
+  display: block;
+}
+
+.site-header.header-two .info-box span a:hover {
+  color: var(--primary-color);
+}
+
+.site-header.header-two #mobile-header {
+  padding: 20px 0;
+  float: left;
+}
+
+.site-header.header-two #mobile-header svg {
+  color: #fff;
+}
+
+.site-header .main-navigation ul ul ul {
+  top: -2px;
+  border-top: 0;
+}
+
+.site-header.header-two .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*=============================
+ Search Style
+=============================*/
+
+.site-header.header-two .form-section .example form {
+  width: 240px;
+  height: 40px;
+  padding: 5px 5px;
+  box-shadow: 0 1px 0 0 var(--primary-color);
+  background: var(--primary-color);
+  border: 0;
+}
+
+.site-header.header-two .form-section .example form .search-submit {
+  height: 21px !important;
+  width: 100%;
+  text-indent: 40px;
+  background-color: transparent !important;
+  background-image: url('data:image/svg+xml; utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23fff" d="M508.5 468.9L387.1 347.5c-2.3-2.3-5.3-3.5-8.5-3.5h-13.2c31.5-36.5 50.6-84 50.6-136C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c52 0 99.5-19.1 136-50.6v13.2c0 3.2 1.3 6.2 3.5 8.5l121.4 121.4c4.7 4.7 12.3 4.7 17 0l22.6-22.6c4.7-4.7 4.7-12.3 0-17zM208 368c-88.4 0-160-71.6-160-160S119.6 48 208 48s160 71.6 160 160-71.6 160-160 160z"></path></svg>') !important;
+  background-size: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.site-header.header-two .form-section .example form .search-submit:focus {
+  outline: 1px dotted #fff;
+}
+
+.site-header.header-two .form-section .example form input::placeholder {
+  color: #fff;
+}
+
+.site-header .btn-form-close {
+  position: absolute;
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23ffffff' viewBox='0 0 32 32'%3E%3Cpath d='M32,2.3L29.7,0L16,13.7L2.3,0L0,2.3L13.7,16L0,29.7L2.3,32L16,18.3L29.7,32l2.3-2.3L18.3,16L32,2.3z'/%3E%3C/svg%3E");
+  top: 20px;
+  right: 47px;
+  width: 15px;
+  height: 15px;
+  padding: 0px;
+  border: 0;
+  -webkit-transform: translate(0, -50%);
+  -moz-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  opacity: 0;
+  background-color: transparent;
+  border-radius: 0;
+  z-index: 111;
+}
+
+.site-header .btn-form-close:focus {
+  opacity: 1;
+  visibility: visible;
+  outline: 1px dotted #fff;
+}
+
+/* -------------accessibility------------ */
+.keyboard-nav-on .site input:active,
+.keyboard-nav-on .site input:focus,
+.keyboard-nav-on .site input:hover,
+.keyboard-nav-on .site a:active,
+.keyboard-nav-on .site a:focus,
+.keyboard-nav-on .site a:hover,
+.keyboard-nav-on .site button:active,
+.keyboard-nav-on .site button:focus,
+.keyboard-nav-on .site button:hover,
+.keyboard-nav-on .site textarea:active,
+.keyboard-nav-on .site textarea:focus,
+.keyboard-nav-on .site textarea:hover,
+.keyboard-nav-on .site select:active,
+.keyboard-nav-on .site select:focus,
+.keyboard-nav-on .site select:hover {
+  outline: #000 dashed 2px !important;
+}
+
+/* placerhlder */
+.search-section form input[type="search"]::placeholder {
+  color: #ffffff;
+}
+
+/* header */
+.header-m .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container:after {
+  content: none;
+}
+
+.header-m .site-info-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.header-m .site-info-wrap .info-box-wrap {
+  display: flex;
+}
+
+.header-m .site-branding .site-description {
+  margin: 0;
+}
+
+.site-header .header-m {
+  padding: 20px 0;
+}
+
+.site-header .header-bottom,
+.search-section {
+  background: var(--primary-color) !important;
+}
+
+/* color changes */
+
+body.theme-style-modern
+  .featured-courses
+  ul
+  li
+  .image-holder
+  .description
+  .learn-more:hover {
+  color: currentColor !important;
+}
+
+body.theme-style-modern .site-header .main-navigation a {
+  color: #fff !important;
+}
+
+body.theme-style-modern .site-header .main-navigation a:hover {
+  opacity: 0.8 !important;
+}
+
+.site-header .form-section svg {
+  color: #ffffff;
+}
+
+body.theme-style-modern .main-navigation ul li.menu-item-has-children::before {
+  background-image: url("data:image/svg+xml,%3Csvg width='11' height='8' viewBox='0 0 11 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0.562492 1.9393L4.93062 7.0368C5.00103 7.11892 5.08837 7.18484 5.18665 7.23003C5.28493 7.27523 5.39182 7.29862 5.49999 7.29862C5.60816 7.29862 5.71506 7.27523 5.81334 7.23003C5.91162 7.18484 5.99896 7.11892 6.06937 7.0368L10.4375 1.9393C10.8544 1.45273 10.5087 0.701172 9.86812 0.701172H1.13062C0.489992 0.701172 0.144367 1.45273 0.562492 1.9393V1.9393Z' fill='%23ffffff' fill-opacity='0.7'/%3E%3C/svg%3E") !important;
+  top: 26px !important;
+}
+
+body.theme-style-modern .subscription form input[type="submit"]:hover,
+body.theme-style-modern
+  .banner
+  .banner-text
+  .btn-holder
+  .btn-free-inquiry:hover,
+body.theme-style-modern .banner .banner-text .text .course-link:hover {
+  background: #ffffff;
+  color: var(--primary-color);
+}
+
+.error404 .homepage:hover {
+  background: #ffffff;
+  color: var(--primary-color);
+}
+
+.error404 .homepage {
+  border: 1px solid var(--primary-color);
+}
+
+#primary .read-more {
+  border: 2px solid var(--primary-color);
+}
+
+#primary .read-more:hover {
+  background: transparent;
+  color: var(--primary-color);
+}
+
+.widget-area .widget form input[type="submit"],
+.page-header form input[type="submit"] {
+  background-color: var(--primary-color);
+}
+
+#crumbs {
+  color: var(--primary-color);
+  margin: 25px 0 30px;
+}
+
+/* font weight */
+
+.section-title,
+.featured-courses ul li .image-holder .description h2,
+.thumb-text li h3 a,
+.choose-us .col h3,
+.latest-events .post .entry-title a,
+body.theme-style-modern .banner .banner-text .text span,
+.page-header .page-title,
+#primary .entry-title a,
+.widget h2 {
+  font-weight: 600;
+}
+
+body.theme-style-modern .banner .banner .banner-text .text .title {
+  font-weight: 600 !important;
+}
+
+.site-content .widget-area .widget ul li a:hover {
+  opacity: 1;
+}
+
+#secondary .widget {
+  margin-bottom: 45px;
+}
+
+@media only screen and (max-width: 991px) {
+  .mobile-menu .main-navigation ul li a:hover,
+  .mobile-menu .main-navigation ul li a:focus,
+  .mobile-menu .main-navigation ul li:hover > a,
+  .mobile-menu .main-navigation ul li:focus > a,
+  .mobile-menu .main-navigation ul .current-menu-item > a,
+  .mobile-menu .main-navigation ul .current-menu-ancestor > a,
+  .mobile-menu .main-navigation ul .current_page_item > a,
+  .mobile-menu .main-navigation ul .current_page_ancestor > a,
+  .mobile-menu .contact-info a:hover,
+  .mobile-menu .contact-info a:focus {
+    color: var(--primary-color);
+  }
+}
+
+.comment-form form input[type="submit"]:hover {
+  background: rgba(var(--primary-color-rgba), 0.8);
+}
+
+/* refinement */
+
+body.theme-style-modern .header-top .social-networks a {
+  color: currentColor;
+  font-size: 18px;
+}
+
+body.theme-style-modern .header-top .social-networks a:hover {
+  opacity: 0.7;
+}
+
+body.theme-style-modern .site-header.header-two .info-box {
+  display: flex;
+  align-items: center;
+}

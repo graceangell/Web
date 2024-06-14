@@ -1,0 +1,1425 @@
+# Translation of Themes - Education Zone in Indonesian
+# This file is distributed under the same license as the Themes - Education Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-14 05:07:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Education Zone\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Education Zone is a free clean, beautiful and professional looking WordPress Theme specially designed for Education Institutions. This theme is best suited for college, school, university, LMS, Training Center, Academy, Primary School, High school and Kindergarten and other educational websites. The theme is very flexible and versatile can be used to build various types of business and corporate websites. The theme is highly customizable with various features and personalization options. Education Zone comes with several features to make a user-friendly, interactive and visually stunning website. Such features include custom menu, attractive banner, Stat counter, Courses section, testimonial section, Banner with Call to Action Button (CTA), and social media. The theme is SEO friendly with optimized codes, which make it easy for your site to rank on Google and other search engines. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Education Zone helps you to easily and intuitively create professional and appealing websites. If your school, college or university needs an online home that is dynamic and multi-functional, this theme is a good place to start. Check the demo at https://rarathemes.com/previews/?theme=education-zone, documentation at https://docs.rarathemes.com/docs/education-zone/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Education Zone adalah tema WordPress yang rapi, bagus dan tampak profesional; didesain khusus untuk Institusi Pendidikan. Tema ini sangat cocok untuk kampus, sekolah, universitas, LMS, Pusat Pelatihan, Akademi, Sekolah Dasar, Sekolah Menengah Atas dan Kindergarten dan situs web pendidikan lainnya. Tema ini sangat fleksibel dan serbaguna dapat digunakan untuk membangun berbagai jenis situs web bisnis dan perusahaan. Tema sangat mudah disesuaikan dengan aneka fitur dan opsi personalilasi. Education Zone hadir dengan berbagai macam fitur meliputi menu khusus, banner yang atraktif, penghitung statistik, bagian Course, bagian testimonial, Banner dengan Call to Action Button (CTA), dan media sosial. Tema ini ramah SEO dengan kode yang dioptimalkan, yang menjadikan situs Anda mudah diranking di Google dan mesin pencari lainnya. Tema ini diuji secara ketat dan dioptimalkan untuk kecepatan dan waktu pemuatan halaman yang lebih cepat dan memiliki kode yang aman dan bersih. Tema ini juga siap diterjemahkan. Didesain dengan mempertimbangkan keterlibatan pengunjung, Education Zone membantu Anda secara mudah dan intuitif membuat situs web yang profesional dan menarik. Jika sekolah, kampus atau universitas Anda membutuhkan rumah online yang dinamis dan multi-fungsi, tema ini sangat cocok Anda gunakan untuk memulai. Cek demo di https://rarathemes.com/previews/?theme=education-zone, dokumentasi di https://docs.rarathemes.com/docs/education-zone/, dan layanan bantuan di https://rarathemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Education Zone"
+msgstr "Education Zone"
+
+#: inc/extras.php:375
+msgid ")"
+msgstr ")"
+
+#: inc/extras.php:375
+msgid " (Page"
+msgstr "(Halaman"
+
+#: inc/tgmpa/recommended-plugins.php:57
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: inc/extras.php:766 inc/extras.php:770
+msgid "Name"
+msgstr "Nama"
+
+#: inc/tgmpa/recommended-plugins.php:52
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/extras.php:906
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "aktifkan"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: inc/extras.php:899
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "aktif"
+
+#: inc/getting-started/tabs/plugins-panel.php:29
+msgid "Free Plugins"
+msgstr "Plugin Gratis"
+
+#: inc/getting-started/tabs/plugins-panel.php:40
+msgid "Version %s"
+msgstr "Versi %s"
+
+#: inc/getting-started/tabs/plugins-panel.php:30
+msgid "These Free Plugins might be handy for you."
+msgstr "Plugin gratis ini mungkin berguna untuk Anda."
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Instal dan aktifkan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Nonaktifkan"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Portfolio Jetpack"
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Mengaktifkan"
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Memulai dengan %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Gratis Vs Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "Bantuan &amp; Tanya Jawab"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Plugin yang Disarankan"
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the %1$s. Though every plugin is optional, we recommend you to at least install %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s to create a website similar to the %1$s demo and also to ensure every feature of the theme works correctly."
+msgstr "Berikut adalah daftar plugin yang disarankan untuk Anda instal untuk mendapatkan hasil maksimal dari %1$s. Meskipun instalasi semua plugin bersifat opsional, kami menyarankan Anda untuk setidaknya menginstal %2$sRara One Click Demo Import%3$s & %2$sContact Form 7%3$s untuk membuat situs web yang mirip dengan %1$s demo dan juga untuk memastikan setiap fitur tema berfungsi dengan baik."
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Anda akan menemukan apa pun yang dibutuhkan untuk memulai dengan %1$s berikut."
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details possible so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "Selain itu, ketika Anda mengirimkan tiket bantuan, harap untuk memberikan rincian secara lengkap agar kami dapat melihat masalah Anda secara terperinci dan menyelesaikan permasalahan secepat mungkin. Kami merekomendasikan Anda untuk mengirimkan tangkapan layar (screenshots) beserta penjelasan permasalahannya dan alamat situs web Anda (URL)."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Harap pastikan bahwa Anda telah memperbarui tema ke versi terbaru sebelum Anda mengirimkan tiket bantuan untuk masalah apa pun. Kami mungkin telah memperbaiki bug di pembaruan tema sebelumnya."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Jika Customizer Anda tidak memuat dengan benar atau Anda mengalami masalah dengan tema, hal itu mungkin karena konflik plugin."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Mengapa tema saya tidak berfungsi dengan baik?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Anda dapat merubah teks hak cipta dengan menuju %1$sTampilan > Sesuaikan > Pengaturan Footer%2$s. Namun, jika Anda ingin menyembunyikan teks apresiasi penulis, silakan %3$supgrade ke versi Pro%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Bagaimana saya merubah teks hak cipta?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Versi Pro dibuat dengan banyak fleksibilitas dengan mengedepankan pembaruan yang akan datang. Untuk itu, ini sedikit berbeda dengan tema gratis tetapi sangat fleksibel dan mudah digunakan."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Namun, karena versi Pro hadir dengan tambahan fitur dan pengaturan, Anda perlu mengatur fitur tambahan di Customizer. Proses ini sederhana dan hanya membutuhkan beberapa menit. "
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Ketika Anda mengupgrade ke tema Pro, artikel Anda, halaman, media, kategori, dan data lainnya akan tetap utuh -- semua data Anda disimpan."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Upgrade ke versi Pro -- apakah saya akan kehilangan perubahan?"
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Seiring dengan fitur tambahan dan pembaruan rutin, Anda akan mendapatkan bantuan khusus dan cepat dengan tema premium. Ketika Anda mengalami masalah saat membuat situs web dengan tema premium, Anda akan mendapatkan respon yang lebih cepat dibanding dengan bantuan gratis."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Apa saja kelebihan mengupgrade ke versi premium?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr "Secara keseluruhan, Anda akan memiliki kontrol lebih terhadap penyesuaian dan pengeditan situs web Anda dengan versi Pro."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "Kedua tema versi Gratis dan Pro dikoding dengan baik dan dikembangkan dengan praktik koding terbaik. Namun, tema versi Pro hadir dengan fitur-fitur tambahan dan tim layanan bantuan khusus untuk membantu menjawab pertanyaan Anda. Tema Pro hadir dengan beberapa bagian di beranda (halaman awal) yang dapat diurutkan dan disembunyikan sesuai kebutuhan Anda. Selain itu, tema Pro hadir dengan beberapa templat halaman yang telah didesain sebelumnya."
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Bagaimana saya memecahkan masalah dengan cepat dan memperoleh layanan bantuan yang lebih cepat? "
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Jika hal ini tidak membantu, silakan hubungi kami via %1$sTiket Layanan Bantuan%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Untuk mengatasi masalah ini, nonaktifkan semua plugin terlebih dahulu, kecuali yang direkomendasikan oleh tema. Kemudian, muat ulang situs Anda menggunakan %1$s\"Ctrl+Shift+R\"%2$s untuk Windows dan %1$s\"Cmd+Shift+R\"%2$s untuk Mac. Jika masalah teratasi, mulai aktifkan plugin satu per satu, dan muat ulang dan periksa situs Anda pada saat itu. Ini akan membantu Anda mengetahui plugin mana yang menyebabkan masalah."
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Upgrade ke Pro"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Kunjungi Demo"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Hubungi Layanan Bantuan"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Kunjungi Layanan Bantuan"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Lihat Dokumentasi"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Kunjungi Dokumentasi"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Lihat Versi Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Lihat Versi Premium"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: functions.php:316
+msgid "Dismiss"
+msgstr "Singkirkan"
+
+#: functions.php:313
+msgid "Congratulations!"
+msgstr "Selamat!"
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Lompat ke konten (Tekan Enter)"
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our %1$s Demo"
+msgstr "Kunjungi Demo %1$s Kami"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Lihat Tautan Dokumentasi Kami"
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Apa perbedaan antara Gratis dan Pro?"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Kunjungi basis pengetahuan"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Dokumentasi kami dilengkapi panduan langkah-demi-langkah dari instalasi WordPress hingga menyesuaikan tema untuk membuat situs web yang menarik dan memikat."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Membutuhkan bantuan dengan WordPress dan tema kami secepat mungkin? Kunjungi dokumentasi yang terorganisir kami."
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Kunjungi Pusat Pengetahuan"
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "Baca selengkapnya tentang fitur ini"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr "Dan, versi Pro diperbarui secara teratur dan tersedia tim pelayanan bantuan yang berdedikasi menjawab pertanyaan Anda."
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Kunjungi demo untuk medapatkan ide tambahan mengenai desain tema kami dan fitur-fiturnya."
+
+#: functions.php:315
+msgid "Go to the getting started."
+msgstr "Klik untuk memulai."
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Jika Panduan Dokumentasi tidak membantu Anda, hubungi kami melalui %1$sTiket Layanan Bantuan%2$s. Kami akan membalas semua permintaan bantuan dalam satu hari kerja, kecuali pada akhir pekan."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Lebih baik selalu mengunjungi %1$sPanduan Dokumentasi%2$s sebelum Anda mengirimkan permintaan bantuan kepada kami."
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Apakah kamu baru mengenal WordPress? Panduan langkah-demi-langkah dalam Dokumentasi kami yang mudah akan membantu Anda membuat situs web yang menarik dan menawan tanpa pengetahuan atau pengalaman koding sebelumnya."
+
+#: functions.php:314
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s saat ini sudah diinstall dan siap digunakan. Klik di bawah untuk melihat dokumentasi tema, plugin untuk diinstal dan detail lainnya untuk memulai."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern as well as fonts of the website with the Pro version. Also, the Pro theme features more homepage sections than free version to allow you to showcase your organization services in a better way boosting the growth of the organization. Furthermore, the premium theme comes with multiple predefined page templates."
+msgstr "Versi Pro dari tema ini memungkinkan Anda untuk mengubah tampilan dan rasa situs web dengan hanya beberapa klik. Anda dapat dengan mudah mengubah warna, gambar latar belakang dan pola serta font situs web dengan versi Pro. Serta, tema Pro memiliki bagian-bagian halaman awal yang lebih banyak dibandingkan versi gratis yang memungkinkan Anda menampilkan layanan dari organisasi Anda dalam tampilan yang lebih baik dan mendorong pertumbuhan organisasi. Lebih dari itu, tema premium hadir dengan templat-templat halaman yang beragam yang telah didesain sebelumnya."
+
+#: inc/extras.php:953
+msgid "Education Zone | Developed By"
+msgstr "Education Zone | Diciptakan Oleh"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang disarankan berikut saat ini tidak aktif: %1$s."
+msgstr[1] "Plugin yang disarankan berikut saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang diwajibkan berikut, saat ini tidak aktif: %1$s."
+msgstr[1] "Plugin yang diwajibkan berikut, saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Tersedia pembaruan untuk: %1$s."
+msgstr[1] "Tersedia pembaruan untuk plugin-plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan kompatibilitas yang maksimal dengan tema ini: %1$s."
+msgstr[1] "Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan kompatibilitas yang maksimal dengan tema ini: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema ini menyarankan plugin berikut: %1$s."
+msgstr[1] "Tema ini menyarankan plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema ini mewajibkan plugin berikut: %1$s."
+msgstr[1] "Tema ini mewajibkan plugin berikut: %1$s."
+
+#: inc/extras.php:407
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b>"
+msgstr "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b>"
+
+#: inc/customizer.php:16
+msgid "Static Front Page"
+msgstr "Halaman Depan Statis"
+
+#: inc/customizer.php:2248
+msgid "Copyright Info"
+msgstr "Info Hak Cipta"
+
+#: inc/customizer.php:2231
+msgid "Footer Settings"
+msgstr "Pengaturan Footer"
+
+#: inc/extras.php:949
+msgid "Copyright &copy;"
+msgstr "Hak Cipta &copy;"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s berhasil diinstal dan diaktifkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Perbarui"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr "Instal"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan pembaruan dari pembuat plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Instal %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Versi"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Tipe"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk diinstal, perbarui atau aktifkan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Versi yang tersedia: "
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Versi minimal yang diwajibkan:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Versi yang diinstal:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Pembaruan disarankan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Wajib Pembaruan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Tidak Tersedia Pembaruan yang Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Tidak Diinstal"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Sumber Luar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Penginstal Plugin yang Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai memperbarui plugin"
+msgstr[1] "Mulai memperbarui plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai menginstal plugin"
+msgstr[1] "Mulai menginstal plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Terjadi kesalahan dengan API plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "Menginstal Plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil diinstal."
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Diinstal Namun Tidak Diaktifkan"
+
+#: inc/info.php:24 inc/info.php:25 inc/info.php:27
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: inc/info.php:25
+msgid "Theme Demo"
+msgstr "Demo Tema"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Instal Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Instal Plugin yang Diwajibkan"
+
+#: inc/info.php:12 inc/info.php:24
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+#: inc/customizer.php:2203 inc/extras.php:504
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer.php:2185 inc/extras.php:502
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer.php:2168 inc/extras.php:500
+msgid "OK"
+msgstr "OK"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "Instalasi %1$s gagal."
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Diinstal <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk Diinstal <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Disertakan Sebelumnya"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+msgstr[1] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi eror ketika menginstal %1$s: <strong>%2$s</strong>."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak tersedia plugin untuk diaktifkan saat ini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diaktifkan. Tidak ada aksi dijalankan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak tersedia plugin untuk diperbarui saat ini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak tersedia plugin untuk diinstal saat ini."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diperbarui. Tidak ada aksi dijalankan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin dipilih untuk diinstal. Tidak ada aksi dijalankan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Pembaruan Diwajibkan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses instalasi sedang dimulai. Proses ini mungkin memerlukan waktu beberapa saat pada beberapa hosting tertentu, jadi harap bersabar."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstal dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan pengaktifan telah selesai."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses instalasi dan pengaktifan sedang dimulai. Proses ini mungkin memerlukan waktu beberapa saat di beberapa hosting tertentu, jadi harap bersabar."
+
+#: inc/getting-started/tabs/help-panel.php:20 inc/info.php:27
+msgid "Support Ticket"
+msgstr "Tiket Bantuan"
+
+#: inc/info.php:22
+msgid "Check out step-by-step video tutorial to create your website like the demo of Education Zone WordPress theme."
+msgstr "Lihat video tutorial langkah-demi-langkah untuk membuat situs web seperti demo tema WordPress Education Zone."
+
+#: inc/info.php:30
+msgid "About Education Zone"
+msgstr "Tentang Education Zone"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin berikut ini telah berhasil diaktifkan:"
+msgstr[1] "Plugin berikut ini telah berhasil diaktifkan:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Singkirkan catatan ini"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Agar Diaktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Agar Diaktifkan <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Paket plugin asal berisi lebih dari satu file, namun file-file tersebut tidak disertakan di dalam satu folder."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Silakan hubungi pembuat plugin dan tanyakan agar mengemas plugin mereka sesuai panduan dari WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Paket plugin asal tidak berisi folder dengan slug yang susai dan penggantian nama tidak berhasil."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini harus diperbarui agar kompatibel dengan tema anda."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Silakan hubungi administrator situs ini untuk bantuan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Terdapat satu atau lebih plugin yang direkomendasikan untuk diinstal, perbarui atau aktifkan."
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil diinstal dan diaktifkan. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkan. Versi yang lebih baru dari %s diperlukan untuk tema ini. Silakan perbarui plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada aksi diproses. Plugin %1$s sudah aktif sebelumnya."
+
+#: inc/woocommerce-functions.php:45
+msgid "Shop Sidebar"
+msgstr "Sidebar Shop"
+
+#: inc/woocommerce-functions.php:47
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Sidebar tampil hanya di halaman WooCommerce."
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Halaman Awal"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Ada yang Ditemukan"
+
+#: sections/section-courses.php:53
+msgid "Learn More"
+msgstr "Pelajari Lebih Lanjut"
+
+#: sections/section-blog.php:62
+msgid "g:i A"
+msgstr "g:i A"
+
+#: sections/section-blog.php:61 sections/section-blog.php:124
+msgid "j M, Y"
+msgstr "j M, Y"
+
+#: inc/widget-popular-post.php:78 inc/widget-recent-post.php:77
+msgid "Y-m-d"
+msgstr "Y-m-d"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:63 template-parts/content-page.php:38
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: inc/template-tags.php:28 inc/template-tags.php:56
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:28 inc/template-tags.php:56
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:28 inc/template-tags.php:56
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#: inc/extras.php:498
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/extras.php:417
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: inc/widget-popular-post.php:79 inc/widget-recent-post.php:78
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: inc/extras.php:203
+msgid "d"
+msgstr "d"
+
+#: inc/extras.php:201 inc/extras.php:209
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:201
+msgid "m"
+msgstr "m"
+
+#: inc/customizer.php:2150 inc/extras.php:492
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:2132 inc/extras.php:494
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:2114 inc/extras.php:496
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:2096
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer.php:2078 inc/extras.php:490
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:2060 inc/extras.php:488
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:2042
+msgid "Enable Social Links"
+msgstr "Aktifkan Tautan Media Sosial"
+
+#: inc/customizer.php:2004 inc/extras.php:150
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:939 inc/customizer.php:1132 inc/customizer.php:1314
+#: inc/customizer.php:1434 inc/customizer.php:1558 inc/customizer.php:1643
+msgid "Select Page"
+msgstr "Pilih Halaman"
+
+#: inc/customizer.php:523 inc/customizer.php:1654 inc/partials.php:59
+#: sections/section-blog.php:13 sections/section-slider.php:8
+#: template-parts/content-search.php:37 template-parts/content.php:71
+msgid "Read More"
+msgstr "Baca Selengkapnya"
+
+#: inc/customizer.php:532
+msgid "Read More Texts"
+msgstr "Teks Baca Selengkapnya"
+
+#: inc/customizer.php:369
+msgid "Phone"
+msgstr "Telepon"
+
+#: inc/customizer.php:351 inc/extras.php:767 inc/extras.php:772
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/extras.php:199 inc/extras.php:201 inc/extras.php:207 inc/extras.php:212
+#: inc/extras.php:949
+msgid "Y"
+msgstr "Y"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:68
+msgid "Newer Comments"
+msgstr "Komentar Lebih Baru"
+
+#: comments.php:67
+msgid "Older Comments"
+msgstr "Komentar Terdahulu"
+
+#: comments.php:64
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: inc/extras.php:955
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:52
+msgid "Primary"
+msgstr "Utama"
+
+#: archive.php:34 index.php:40 search.php:35
+msgid "Page"
+msgstr "Halaman"
+
+#: 404.php:12
+msgid "404!"
+msgstr "404!"
+
+#: 404.php:20
+msgid "Back to homepage"
+msgstr "Kembali ke halaman awal"
+
+#: functions.php:189
+msgid "Footer Three"
+msgstr "Footer Tiga"
+
+#: functions.php:179
+msgid "Footer Two"
+msgstr "Footer Dua"
+
+#: functions.php:169
+msgid "Footer One"
+msgstr "Footer Satu"
+
+#: template-parts/content-page.php:27 template-parts/content.php:47
+#: template-parts/content.php:61
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: Tautan Media Sosial"
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "Widget Tautan Media Sosial"
+
+#: inc/widget-popular-post.php:113 inc/widget-recent-post.php:112
+#: inc/widget-social-links.php:66
+msgid "Title"
+msgstr "Judul"
+
+#: inc/widget-popular-post.php:118 inc/widget-recent-post.php:117
+msgid "Number of Posts"
+msgstr "Jumlah Artikel"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:48
+msgid ", "
+msgstr ","
+
+#: inc/extras.php:774
+msgid "Website"
+msgstr "Situs Web"
+
+#: inc/extras.php:767
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/extras.php:766
+msgid "Name*"
+msgstr "Nama*"
+
+#: inc/extras.php:410
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang menunggu moderasi."
+
+#: inc/extras.php:356
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#: inc/extras.php:312
+msgid "\""
+msgstr "\""
+
+#: inc/customizer.php:452
+msgid "Banner Section"
+msgstr "Bagian Banner"
+
+#: inc/customizer.php:467
+msgid "Enable Banner Section"
+msgstr "Aktifkan Bagian Banner"
+
+#: inc/customizer.php:511
+msgid "Select Post"
+msgstr "Pilih Artikel"
+
+#: inc/customizer.php:750
+msgid "Information Section"
+msgstr "Bagian Informasi"
+
+#: inc/customizer.php:768
+msgid "Enable Information Section"
+msgstr "Aktifkan Bagian Informasi"
+
+#: inc/customizer.php:387
+msgid "Top Menu Label"
+msgstr "Label Menu Atas"
+
+#: inc/customizer.php:445
+msgid "Home Page Settings"
+msgstr "Pengaturan Halaman Awal"
+
+#: inc/customizer.php:446
+msgid "Customize Home Page Settings"
+msgstr "Sesuaikan Pengaturan Halaman Awal"
+
+#: inc/customizer.php:333
+msgid "Top Header Settings"
+msgstr "Pengaturan Header Atas"
+
+#: inc/customizer.php:154
+msgid "Default Settings"
+msgstr "Pengaturan Dasar"
+
+#: inc/customizer.php:44
+msgid "Choose Category"
+msgstr "Pilih Kategori"
+
+#: 404.php:14
+msgid "The requested page cannot be found"
+msgstr "Halaman yang diminta tidak ditemukan"
+
+#: inc/widget-popular-post.php:129 inc/widget-recent-post.php:128
+msgid "Show Post Date"
+msgstr "Tampilkan Tanggal Artikel"
+
+#: inc/widget-popular-post.php:124 inc/widget-recent-post.php:123
+msgid "Show Post Thumbnail"
+msgstr "Tampilkan Thumbnail Artikel"
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Widget Artikel Populer"
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Artikel Populer"
+
+#: inc/template-tags.php:50
+msgid "Tagged %1$s"
+msgstr "Ditandai %1$s"
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Artikel Terbaru"
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Widget Artikel Terbaru"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:42 template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lanjutkan membaca %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan terma pencarian Anda. Silakan coba lagi dengan kata kunci berbeda."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan artikel pertama Anda? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: inc/widget-social-links.php:71
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Anda dapat mengubah tautan media sosial dari customizer di opsi Pengaturan Media Sosial. "
+
+#: inc/customizer.php:1986 inc/extras.php:151
+msgid "Home"
+msgstr "Beranda"
+
+#: inc/customizer.php:1958
+msgid "Enable Breadcrumb"
+msgstr "Aktifkan Breadcrumb"
+
+#: inc/customizer.php:1940
+msgid "Breadcrumb Settings"
+msgstr "Pengaturan Breadcrumb"
+
+#: inc/customizer.php:1758
+msgid "Search Info"
+msgstr "Cari Info"
+
+#: inc/customizer.php:1750 sections/section-search.php:7
+msgid "Can we help you find what you are looking for?"
+msgstr "Dapatkah kami membantu Anda mencari apa yang sedang Anda cari?"
+
+#: inc/customizer.php:1740
+msgid "Enable Search Section"
+msgstr "Aktifkan Bagian Pencarian"
+
+#: inc/customizer.php:1721
+msgid "Search Section"
+msgstr "Bagian Pencarian"
+
+#: inc/customizer.php:1710
+msgid "Select gallery Post"
+msgstr "Pilih galeri Artikel"
+
+#: inc/customizer.php:1692
+msgid "Enable Gallery Section"
+msgstr "Aktifkan Bagian Galeri"
+
+#: inc/customizer.php:1673
+msgid "Gallery Section"
+msgstr "Bagian Galeri"
+
+#: inc/customizer.php:1662
+msgid "Blog Section Read More Text"
+msgstr "Teks \"Baca Selengkapnya\" pada Bagian Blog"
+
+#: inc/customizer.php:1625
+msgid "Show Blog Date"
+msgstr "Tampilkan Tanggal Blog"
+
+#: inc/customizer.php:1607
+msgid "Enable Blog Section"
+msgstr "Aktifkan Bagian Blog"
+
+#: inc/customizer.php:1588
+msgid "Blog Section"
+msgstr "Bagian Blog"
+
+#: inc/customizer.php:1277
+msgid "Extra Info Section"
+msgstr "Bagian Info Tambahan"
+
+#: inc/customizer.php:902
+msgid "Welcome Section"
+msgstr "Bagian Selamat Datang"
+
+#: inc/customizer.php:846
+msgid "Info Fourth Post"
+msgstr "Info Artikel Keempat"
+
+#: inc/customizer.php:826
+msgid "Info Third Post"
+msgstr "Info Artikel Ketiga"
+
+#: inc/customizer.php:806
+msgid "Info Second Post"
+msgstr "Info Artikel Kedua"
+
+#: inc/customizer.php:786
+msgid "Info One Post"
+msgstr "Info Artikel Satu"
+
+#: inc/customizer.php:28
+msgid "Choose Page"
+msgstr "Pilih Halaman"
+
+#: inc/customizer.php:21
+msgid "Choose Post"
+msgstr "Pilih Artikel"
+
+#: inc/customizer.php:379 inc/extras.php:598
+msgid "Quick Links"
+msgstr "Tautan Pintas"
+
+#: functions.php:159
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: functions.php:53
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: inc/extras.php:955
+msgid "Powered by %s."
+msgstr "Ditenagai oleh %s."
+
+#: archive.php:33 index.php:39 search.php:34
+msgid "&gt"
+msgstr "&gt"
+
+#: inc/template-tags.php:44
+msgid "Posted in %1$s"
+msgstr "Dituliskan dalam %1$s"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Pilih Templat Sidebar"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Tanpa sidebar"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Sidebar kanan (baku)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Layout Sidebar"
+
+#: inc/info.php:148
+msgid "VIEW PRO THEME"
+msgstr "LIHAT TEMA PRO"
+
+#: inc/info.php:146
+msgid "Pro Available"
+msgstr "Tersedia Versi Pro"
+
+#: inc/extras.php:787
+msgid "Comment"
+msgstr "Komentar"
+
+#: inc/extras.php:312
+msgid "Search Results for \""
+msgstr "Hasil Pencarian untuk \""
+
+#: inc/extras.php:126 inc/extras.php:373
+msgid "404 Error - Page not Found"
+msgstr "404 Error - Halaman Tidak Ditemukan"
+
+#: inc/customizer.php:2024
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Biarkan kosong jika Anda tidak ingin menampilkan tautan media sosial."
+
+#: inc/customizer.php:2023
+msgid "Social Settings"
+msgstr "Pengaturan Media Sosial"
+
+#: inc/customizer.php:1387
+msgid "CTA Second Button Link"
+msgstr "Tautan Tombol CTA Kedua"
+
+#: inc/customizer.php:1369
+msgid "CTA Second Button"
+msgstr "Tombol CTA Kedua"
+
+#: inc/customizer.php:1351
+msgid "CTA First Button Link"
+msgstr "Tautan Tombol CTA Pertama"
+
+#: inc/customizer.php:1333
+msgid "CTA First Button"
+msgstr "Tombol CTA Pertama"
+
+#: inc/customizer.php:1296
+msgid "Enable Extra Info Section"
+msgstr "Aktifkan Bagian Info Ekstra"
+
+#: inc/customizer.php:2012
+msgid "Breadcrumb Separator"
+msgstr "Pemisah Breadcrumb"
+
+#: inc/extras.php:112
+msgid "%1$s Result for \"%2$s\""
+msgstr "%1$s Hasil untuk \"%2$s\""
+
+#: inc/customizer.php:1994
+msgid "Breadcrumb Home Text"
+msgstr "Teks Breadcrumb Awal"
+
+#: inc/customizer.php:1976
+msgid "Show current"
+msgstr "Tampilkan yang sedang aktif"
+
+#: inc/customizer.php:1577
+msgid "Choose Testimonials Category"
+msgstr "Pilih Kategori Testimonial"
+
+#: inc/customizer.php:1540
+msgid "Enable Testimonials Section"
+msgstr "Aktifkan Bagian Testimonial"
+
+#: inc/customizer.php:1521
+msgid "Testimonials  Section"
+msgstr "Bagian Testimonial"
+
+#: inc/customizer.php:1510
+msgid "Choose Fourth Post"
+msgstr "Pilih Artikel Keempat"
+
+#: inc/customizer.php:1491
+msgid "Choose Third Post"
+msgstr "Pilih Artikel Ketiga"
+
+#: inc/customizer.php:1472
+msgid "Choose Second Post"
+msgstr "Pilih Artikel Kedua"
+
+#: inc/customizer.php:1453
+msgid "Choose First Post"
+msgstr "Pilih Artikel Pertama"
+
+#: inc/customizer.php:1416
+msgid "Enable Why Choose Us Section"
+msgstr "Aktifkan Bagian Mengapa Memilih Kami"
+
+#: inc/customizer.php:1397
+msgid "Why Choose Us Section"
+msgstr "Bagian Mengapa Memilih Kami"
+
+#: inc/customizer.php:958
+msgid "First Stat Counter Number"
+msgstr "Angka Penghitung Statistik Pertama"
+
+#: inc/customizer.php:921
+msgid "Enable Welcome Section"
+msgstr "Aktifkan Bagian Selamat Datang"
+
+#: inc/customizer.php:1208
+msgid "Featured Course Post Fourth"
+msgstr "Artikel Course Unggulan Keempat"
+
+#: inc/customizer.php:1189
+msgid "Featured Course Post Third"
+msgstr "Artikel Course Unggulan Ketiga"
+
+#: inc/customizer.php:1170
+msgid "Featured Course Post Second"
+msgstr "Artikel Course Unggulan Kedua"
+
+#: inc/customizer.php:1151
+msgid "Featured Course Post First"
+msgstr "Artikel Course Unggulan Pertama"
+
+#: inc/customizer.php:1114
+msgid "Enable Featured Courses Section"
+msgstr "Aktifkan Bagian Course Unggulan"
+
+#: inc/customizer.php:1095
+msgid "Featured Courses Section"
+msgstr "Bagian Course Unggulan"
+
+#: inc/customizer.php:1084
+msgid "Fourth Stat Counter Title"
+msgstr "Judul Penghitung Statistik Keempat"
+
+#: inc/customizer.php:1066
+msgid "Fourth Stat Counter Number"
+msgstr "Angka Penghitung Statistik Keempat"
+
+#: inc/customizer.php:1048
+msgid "Third Stat Counter Title"
+msgstr "Judul Penghitung Statistik Ketiga"
+
+#: inc/customizer.php:1030
+msgid "Third Stat Counter Number"
+msgstr "Angka Penghitung Statistik Ketiga"
+
+#: inc/customizer.php:1012
+msgid "Second Stat Counter Title"
+msgstr "Judul Penghitung Statistik Kedua"
+
+#: inc/customizer.php:994
+msgid "Second Stat Counter Number"
+msgstr "Angka Penghitung Statistik Kedua"
+
+#: inc/customizer.php:976
+msgid "First Stat Counter Title"
+msgstr "Judul Penghitung Statistik Pertama"
+
+#: inc/customizer.php:155
+msgid "Default section provided by wordpress customizer."
+msgstr "Bagian dasar disediakan oleh WordPress Customizer."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Komentar pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Komentar pada &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Comment to &ldquo;%s&rdquo;"
+msgstr "Satu Komentar pada &ldquo;%s&rdquo;"
+
+#: archive.php:32 index.php:38 search.php:33
+msgid "&lt;"
+msgstr "&lt;"
+
+#: 404.php:16
+msgid "We're really sorry! Something went wrong trying to display the page, Please try one of these instead"
+msgstr "Kami minta maaf! Terjadi kesalahan saat mencoba menampilkan halaman. Silakan coba satu di antara berikut"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/education-zone/"
+msgstr "https://rarathemes.com/wordpress-themes/education-zone/"
